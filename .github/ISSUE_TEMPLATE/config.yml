@@ -1,49 +1,49 @@
 blank_issues_enabled: false
 contact_links:
   - name: Bug Report (English)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=bug&template=01_en_bug_report.md&title=%5BBug%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=bug&template=01_en_bug_report.md&title=%5BBug%5D
     about: Report a bug in English to help us improve the project.
 
   - name: Bug Report (Chinese)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=bug&template=02_zh_bug_report.md&title=%5BBug%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=bug&template=02_zh_bug_report.md&title=%5BBug%5D
     about: 提交一个中文的错误报告以帮助我们改进项目。
 
   - name: Feature Request (English)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=enhancement&template=03_en_feature_request.md&title=%5BFeature%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=enhancement&template=03_en_feature_request.md&title=%5BFeature%5D
     about: Suggest a new feature in English for the project.
 
   - name: Feature Request (Chinese)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=enhancement&template=04_zh_feature_request.md&title=%5BFeature%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=enhancement&template=04_zh_feature_request.md&title=%5BFeature%5D
     about: 提出一个中文的功能请求来增强项目。
 
   - name: Question (English)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=question&template=05_en_question.md&title=%5BQuestion%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=question&template=05_en_question.md&title=%5BQuestion%5D
     about: Ask a question in English or request help regarding the project.
 
   - name: Question (Chinese)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=question&template=06_zh_question.md&title=%5BQuestion%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=question&template=06_zh_question.md&title=%5BQuestion%5D
     about: 提出一个中文的问题或请求帮助。
 
   - name: Documentation Improvement (English)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=documentation&template=07_en_documentation_improvement.md&title=%5BDocs%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=documentation&template=07_en_documentation_improvement.md&title=%5BDocs%5D
     about: Suggest an improvement to the documentation in English.
 
   - name: Documentation Improvement (Chinese)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=documentation&template=08_zh_documentation_improvement.md&title=%5BDocs%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=documentation&template=08_zh_documentation_improvement.md&title=%5BDocs%5D
     about: 提出中文的文档改进建议。
 
   - name: Performance Issue (English)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=performance&template=09_en_performance_issue.md&title=%5BPerformance%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=performance&template=09_en_performance_issue.md&title=%5BPerformance%5D
     about: Report a performance issue in English related to the project.
 
   - name: Performance Issue (Chinese)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=performance&template=10_zh_performance_issue.md&title=%5BPerformance%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=performance&template=10_zh_performance_issue.md&title=%5BPerformance%5D
     about: 报告中文的性能问题。
 
   - name: Security Issue (English)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=security&template=11_en_security_issue.md&title=%5BSecurity%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=security&template=11_en_security_issue.md&title=%5BSecurity%5D
     about: Report a security-related issue in English (consider reporting privately).
 
   - name: Security Issue (Chinese)
-    url: https://github.com/fjiangAI/issue_demo/issues/new?assignees=&labels=security&template=12_zh_security_issue.md&title=%5BSecurity%5D
+    url: https://github.com/fjiangAI/issue_template_demo/issues/new?assignees=&labels=security&template=12_zh_security_issue.md&title=%5BSecurity%5D
     about: 报告与安全相关的中文问题（建议私下报告）。
