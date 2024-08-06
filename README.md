@@ -6,7 +6,7 @@ This repository serves as a demonstration of how to use and configure issue temp
 
 When submitting an issue in this repository, please follow the steps below to ensure your issue is clear and helpful:
 
-1. **Navigate to the Issues tab**: Go to the [Issues](https://github.com/fjiangAI/issue_demo/issues) tab in this repository.
+1. **Navigate to the Issues tab**: Go to the [Issues](https://github.com/fjiangAI/issue_template_demo/issues) tab in this repository.
 
 2. **Create a New Issue**: Click on the "New Issue" button.
 
